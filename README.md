@@ -12,4 +12,8 @@
 
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
+</br></br></br></br>
+
+
+
 <footer>Profile picture by <a href="https://www.freepik.com">Freepik</a></footer>
