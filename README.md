@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Security Audit </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications:</h2>
@@ -16,4 +16,4 @@
 
 
 
-<footer>Profile picture by <a href="https://www.freepik.com">Freepik</a></footer>
+<footer>Profile icon by <a href="https://www.freepik.com">Freepik</a></footer>
