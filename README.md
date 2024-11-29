@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>[Security Audit]() </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Security Audit](https://github.com/TasneemSiddiqui/SecurityAudit) </b>
+
 
 <h2>Certifications:</h2>
 <a href="https://www.coursera.org/account/accomplishments/specialization/X3QU7PHV81KJ">Google Cybersecurity Professional Certificate</a>
