@@ -5,6 +5,7 @@
 - <b>[Security Audit](https://github.com/TasneemSiddiqui/SecurityAudit) </b>
 - <b>[Response to Security Incident Using NIST](https://github.com/TasneemSiddiqui/ResponseToSecurityIncidentUsingNIST) </b>
 - <b>[File Permissions In Linux](https://github.com/TasneemSiddiqui/FilePermissionsInLinux) </b>
+- <b>[Apply Filters to SQL Queries](https://github.com/TasneemSiddiqui/ApplyFiltersToSqlQueries) </b>
 </br></br></br></br>
 <h2>Education and Certifications:</h2>
 <h3><a href="https://www.coursera.org/account/accomplishments/specialization/X3QU7PHV81KJ">Google Cybersecurity Professional Certificate</a>, November 2024</br></h3>
