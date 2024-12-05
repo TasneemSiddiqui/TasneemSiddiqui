@@ -1,6 +1,6 @@
 <h1>Tasneem Siddiqui <br/> <a href="https://www.linkedin.com/in/tasneem-siddiqui-265849b6/">Cybersecurity Professional</a> </h1> 
 
-<h2>Cybersecurity Projects (from Google Cybersecurity Certificate): </h2>
+<h2>Cybersecurity Projects (from Google Cybersecurity Certificate Course): </h2>
 
 
 - <b>[Security Audit](https://github.com/TasneemSiddiqui/SecurityAudit) </b>
